@@ -1,0 +1,19 @@
+name: QaQc_methods
+channels:
+  - conda-forge
+dependencies:
+  - gdal
+  - numpy
+  - pandas
+  - requests
+  - xarray
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - dask
+  - rasterio
+  - geopandas
+  - tqdm
+  - scipy
+  - rasterstats
+  - pygeos
